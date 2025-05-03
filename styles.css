@@ -113,7 +113,6 @@ h2 {
   */seletor 
   
   .conteudo-principal {
-    background-color: var(--botao-inativo);
     display: flex;
     flex-direction: column;
     justify-content: center;
