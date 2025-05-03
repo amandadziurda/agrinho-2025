@@ -111,8 +111,8 @@ h2 {
 
 
   */seletor 
-  
-  .conteudo-principal {
+
+.conteudo-principal {
       background-color: e4ffe2;
       display: flex;
       flex-direction: column;
