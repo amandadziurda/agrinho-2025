@@ -114,6 +114,12 @@ h2 {
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
+      --cor-de-fundo: #200b33;
+      --verde: #aa00ff;
+      --branco: #FFFFFF;
+      --botao-ativo: #3A375E;
+      --botao-inativo: rgba(58, 55, 94, 0.5);
+      --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
 .titulo-principal {
