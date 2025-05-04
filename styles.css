@@ -133,7 +133,7 @@ h2 {
 }
 .botao {
     font-family: "Crakra Petch", sans-serif;
-    background-color: #ebffea;
+    background-color: #acd0ab;
     color: var(--branco);
     display: flex;
     justify-content: center;
@@ -159,7 +159,7 @@ h2 {
 }
 
 .abas-textos{
-    background-color:#ebffea;
+    background-color:#acd0ab;
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
