@@ -159,7 +159,7 @@ h2 {
 }
 
 .abas-textos{
-    background-color: #e3ff05;
+    background-color: var(--texto-fundo--);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
