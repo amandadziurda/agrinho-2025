@@ -85,8 +85,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('Detalhe2.jpg') top right no-repeat,
-        url('Detalhe1.jpg') bottom left no-repeat;
+    background: url('Detalhe2.png') top right no-repeat,
+        url('Detalhe1.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -230,7 +230,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('Detalhe3.jpg') bottom right no-repeat;
+    background: url('Detalhe3.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
