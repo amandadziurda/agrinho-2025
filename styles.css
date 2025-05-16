@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #1f501e;
+    --laranja-claro: #198817;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -30,7 +30,7 @@ section {
 
 
 .nav-link {
-    color: #1f501e;
+    color: #198817;
     font-weight: 600;
 }
 
@@ -226,7 +226,7 @@ h2 {
 
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #F1EDEF;
 
 }
 
@@ -255,7 +255,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #1f501e;
+    background-color: #198817;
     border: none;
     font-weight: bold;
 }
