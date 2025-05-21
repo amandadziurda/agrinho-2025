@@ -209,11 +209,12 @@ h2 {
 }
 
 .lista-menu {
-    background-color: var(--fundo-menu);
-    display: none;
-    position: absolute;
-    top: 100%;
-    width: 60vw;
+    background-color: var(--laranja-claro);
+    border-radius: 30px;
+    border: none;
+    width: 14em;
+    height: 3em;
+    align-content: center;
 }
 
 
