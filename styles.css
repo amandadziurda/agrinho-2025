@@ -237,15 +237,6 @@ h2 {
     align-content: center;
 }
 
-.lista-menu__link {
-    background-color: var(--laranja-claro);
-    border-radius: 30px;
-    border: none;
-    width: 14em;
-    height: 3em;
-    align-content: center;
-}
-
 
 @media screen and (min-width: 768px) {
     .botoes {
