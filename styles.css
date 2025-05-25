@@ -229,8 +229,6 @@ h2 {
     width: 14em;
     height: 3em;
     align-content: center;
-    text-shadow: -5px 5px var(--laranja-claro);
-    display: flex;
 }
 
 
