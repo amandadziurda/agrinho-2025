@@ -121,6 +121,37 @@ section {
     /* Garante que o conteúdo fica acima das imagens do background */
 }
 
+#parana {
+    position: relative;
+    padding-top: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background: url('Detalhe.2.png') top right no-repeat,
+        url('Detalhe.1.png') bottom left no-repeat;
+    background-size: 180px 180px;
+    /* Ajuste o tamanho conforme necessário */
+}
+
+#parana .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    /* Garante que o conteúdo fica acima das imagens do background */
+}
+
+
+#parana1 {
+    position: relative;
+    padding-top: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background: url('Detalhe.2.png') top right no-repeat,
+        url('Detalhe.1.png') bottom left no-repeat;
+    background-size: 180px 180px;
+    /* Ajuste o tamanho conforme necessário */
+}
 
 h2 {
     font-family: 'Lemon', serif;
