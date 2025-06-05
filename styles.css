@@ -149,7 +149,6 @@ h2 {
 }
 
 .conteudo-principal {
-      background-color: #;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -244,7 +243,7 @@ h2 {
 }
 
 .lista-menu {
-    background-color: var(--laranja-claro);
+    background-color:#F1EDEF;
     border-radius: 30px;
     border: none;
     width: 14em;
