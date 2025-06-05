@@ -35,10 +35,8 @@ section {
 }
 
 .inicio-fundo {
-    /* aula 3 */
     background-image: url('Fundo.Turvo.jpg');
     title="Fundo com uma imagem de Turvo Paraná" alt="adaptado: https://g1.globo.com/google/amp/pr/campos-gerais-sul/especial-publicitario/prefeitura-de-turvo/turvo-a-capital-dos-pinheirais/noticia/2023/08/02/descubra-as-maravilhas-naturais-de-turvo-aventura-e-beleza-em-um-so-lugar.ghtml";
-    /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
     border-radius: 80px;
@@ -48,21 +46,6 @@ section {
     margin: 0 auto;
 }
 
-.inicio-fundo2 {
-    /* aula 3 */
-    background-image: url('Agricultura.e.Comércio.4.jpg');
-    title="Fundo com uma imagem de Turvo Paraná" alt="adaptado: https://g1.globo.com/google/amp/pr/campos-gerais-sul/especial-publicitario/prefeitura-de-turvo/turvo-a-capital-dos-pinheirais/noticia/2023/08/02/descubra-as-maravilhas-naturais-de-turvo-aventura-e-beleza-em-um-so-lugar.ghtml";
-    /* Substitua pelo caminho da sua imagem */
-    background-size: cover;
-    background-position: right;
-    border-radius: 80px;
-    width: 100%;
-    height: 606px;
-    padding: 40px;
-    margin: 0 auto;
-}
-
-/* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
     right: 0;
@@ -108,7 +91,6 @@ section {
     background: url('Detalhe.2.png') top right no-repeat,
         url('Detalhe.1.png') bottom left no-repeat;
     background-size: 180px 180px;
-    /* Ajuste o tamanho conforme necessário */
 }
 
 #parana .container {
@@ -117,7 +99,6 @@ section {
     justify-content: center;
     position: relative;
     z-index: 1;
-    /* Garante que o conteúdo fica acima das imagens do background */
 }
 
 
@@ -166,10 +147,6 @@ h2 {
     font-style: normal;
     color: var(--laranja-claro);
 }
-
-
-
-  */seletor 
 
 .conteudo-principal {
       background-color: #;
@@ -290,8 +267,6 @@ h2 {
         border-radius: 0 40px 0 0;
         }
 
-
-
 #galeria {
     background-color: #ffffff;
 
@@ -307,18 +282,13 @@ h2 {
     title="Fundo com uma imagem das Cataratas do Iguaçu" alt="adaptado: https://www.temporadalivre.com/blog/os-principais-pontos-turisticos-do-parana";
     background-size: cover;
     padding: 4rem 0;
-    /* Espaçamento interno para a seção de contato */
-
 }
 
 .formulario {
     background-color: #ffffff;
     padding: 2rem;
-    /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
-    /* Borda arredondada para o formulário */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
