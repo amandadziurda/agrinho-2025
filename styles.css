@@ -131,6 +131,14 @@ section {
     background-size: 180px 180px;
 }
 
+#parana2 .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
 #parana3 {
     position: relative;
     padding-top: 5rem;
@@ -141,6 +149,14 @@ section {
     background-size: 180px 180px;
 }
 
+#parana3 .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
 #parana4 {
     position: relative;
     padding-top: 5rem;
@@ -149,6 +165,14 @@ section {
     background: url('Detalhe.2.png') top right no-repeat,
         url('Detalhe.1.png') bottom left no-repeat;
     background-size: 180px 180px;
+}
+
+#parana4 .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
 }
 
 h2 {
