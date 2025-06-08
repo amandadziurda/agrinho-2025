@@ -103,6 +103,21 @@ section {
     z-index: 1;
 }
 
+#inicio1 {
+    position: relative;
+    padding-top: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+#inicio1 .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
 
 #parana1 {
     position: relative;
