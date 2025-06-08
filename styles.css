@@ -112,6 +112,15 @@ section {
         url('Detalhe.1.png') bottom left no-repeat;
     background-size: 180px 180px;
 }
+
+#parana1 .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
 #parana2 {
     position: relative;
     padding-top: 5rem;
