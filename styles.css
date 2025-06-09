@@ -316,7 +316,7 @@ h2 {
     background-size: 180px 180px;
 }
 
-#contato {
+#comentario {
     background-image: url('Fundo.2.jpg');
     title="Fundo com uma imagem das Cataratas do Iguaçu" alt="adaptado: https://www.temporadalivre.com/blog/os-principais-pontos-turisticos-do-parana";
     background-size: cover;
@@ -388,7 +388,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #parana {
+.alto-contraste #agrinho {
     background: none;
 }
 
