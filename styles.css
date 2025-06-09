@@ -119,7 +119,7 @@ section {
 }
 
 
-#agrinho.parana1 {
+#agrinho1 {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -129,7 +129,7 @@ section {
     background-size: 180px 180px;
 }
 
-#agrinho.parana1 .container {
+#agrinho1 .container {
     display: flex;
     align-items: center;
     justify-content: center;
