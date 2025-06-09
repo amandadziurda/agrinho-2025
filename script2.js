@@ -39,9 +39,11 @@ document.addEventListener('DOMContentLoaded', function(){
  
 ScrollReveal().reveal('#inicio', { delay: 500 });
 ScrollReveal().reveal('#agrinho', { delay: 500 });
+ScrollReveal().reveal('#conexao', { delay: 500 });
 ScrollReveal().reveal('#galeria', { delay: 500 });
 ScrollReveal().reveal('#comentario', { delay: 500 });
 ScrollReveal().reveal('#agrinho1', { delay: 500 });
 ScrollReveal().reveal('#agrinho2', { delay: 500 });
 ScrollReveal().reveal('#agrinho3', { delay: 500 });
 ScrollReveal().reveal('#agrinho4', { delay: 500 });
+
