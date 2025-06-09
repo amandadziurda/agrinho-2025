@@ -85,7 +85,7 @@ section {
     text-shadow: -5px 5px var(--laranja-claro);
 }
 
-#parana {
+#agrinho {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -95,7 +95,7 @@ section {
     background-size: 180px 180px;
 }
 
-#parana .container {
+#agrinho .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -137,7 +137,7 @@ section {
     z-index: 1;
 }
 
-#parana2 {
+#agrinho2 {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -147,7 +147,7 @@ section {
     background-size: 180px 180px;
 }
 
-#parana2 .container {
+#agrinho2 .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -155,7 +155,7 @@ section {
     z-index: 1;
 }
 
-#parana3 {
+#agrinho3 {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -165,7 +165,7 @@ section {
     background-size: 180px 180px;
 }
 
-#parana3 .container {
+#agrinho3 .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -173,7 +173,7 @@ section {
     z-index: 1;
 }
 
-#parana4 {
+#agrinho4 {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -183,7 +183,7 @@ section {
     background-size: 180px 180px;
 }
 
-#parana4 .container {
+#agrinho4 .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -291,11 +291,6 @@ h2 {
     font-size: 20px;
     margin: 0;
 }
-
-
-
-
-
 
 @media screen and (min-width: 768px) {
     .botoes {
