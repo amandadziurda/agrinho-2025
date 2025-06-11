@@ -312,8 +312,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('Detalhe_2.png') top left no-repeat,
-        url('Detalhe.3.png') bottom right no-repeat;
+    background: url('Detalhe.3.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
