@@ -160,8 +160,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/Detalhe_4.png') top right no-repeat,
-        url('img/Detalhe_5.png') bottom left no-repeat;
+    background: url('img/Detalhe.2.png') top right no-repeat,
+        url('img/Detalhe.1.png') bottom left no-repeat;
     background-size: 180px 180px;
 }
 
@@ -178,8 +178,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/Detalhe_6.png') top right no-repeat,
-        url('img/Detalhe_1.png') bottom left no-repeat;
+    background: url('img/Detalhe.2.png') top right no-repeat,
+        url('img/Detalhe.1.png') bottom left no-repeat;
     background-size: 180px 180px;
 }
 
