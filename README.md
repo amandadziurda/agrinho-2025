@@ -6,11 +6,11 @@ OBJETIVOS:
 O projeto foi desenvolvido para o Concurso Agrinho de Programação de 2025, tendo como temática “Festejando a conexão campo-cidade”.
 
 LINGUAGENS:
-• HTML
-• CSS
+• HTML;
+• CSS.
 
 PLATAFORMA DE HOSPEDAGEM:
-• Vercel
+• Vercel.
 
 ACESSIBILIDADE:
 • Possui um menu no lado superior escrito “acessibilidade” que ao ser clicado irá aparecer as opções de aumentar e diminuir as fontes, além da possibilidade de melhorar o contraste.
