@@ -3,7 +3,7 @@
 NOME DO SITE: Paraná Conectado: Onde tudo se conecta.
 
 OBJETIVOS:
-O projeto foi desenvolvido para o Concurso Agrinho de Programação de 2025, tendo como temática “Festejando a conexão campo-cidade”.
+• O projeto foi desenvolvido para o Concurso Agrinho de Programação de 2025, tendo como temática “Festejando a conexão campo-cidade”.
 
 LINGUAGENS:
 • HTML;
@@ -15,7 +15,7 @@ PLATAFORMA DE HOSPEDAGEM:
 ACESSIBILIDADE:
 • Possui um menu no lado superior escrito “acessibilidade” que ao ser clicado irá aparecer as opções de aumentar e diminuir as fontes, além da possibilidade de melhorar o contraste.
 
-LICENÇAS:
+REFERÊNCIAS:
 • Durante o desenvolvimento do site foi utilizado imagens tiradas pelo próprio autor, assim como de outras redes. Contudo, todas imagens apresentam o “alt”, mostrando assim de qual é o site de sua origem, também se tem o “text” que descreve a mesma. Além disso, todos os textos apresentados durante o site são de autoria do autor, apenas há alguns dados estatísticos que foram tirados de outros, porém possuem as devidas referências.
 
 INTERAÇÕES COM O USUÁRIO:
